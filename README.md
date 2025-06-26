@@ -6,4 +6,13 @@ This project uses **TextBlob** to analyze sentiment from text input and displays
 
 ## 🚀 How to Run
 
-1. Install dependencies:
+1. Install dependencies: 
+2. Run the app:
+
+The app will launch in your browser using Gradio.
+
+## 🧠 Tech Stack
+- Python
+- TextBlob
+- Gradio
+
